@@ -1,9 +1,9 @@
 {
     "self_mode": false,
-    "anti_delete": true,
+    "anti_delete": false,
     "anti_call": true,
-    "autorespon": true,
-    "user_register": false,
+    "autorespon": false,
+    "user_register": true,
 	"prefix": ".",
 	"ownerNumber": "6289516833542",
 	"ownername": "Arya",
